@@ -1,4 +1,4 @@
-Preview Live Site below:
+Preview Live Site:
 https://informed.plus/site/
 
 # [Sage](https://roots.io/sage/)
